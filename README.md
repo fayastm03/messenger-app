@@ -156,7 +156,7 @@ GET  /api/messages/:userId
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/chat-application.git
+git clone https://github.com/fayastm03/messenger-app.git
 cd chat-application
 ```
 
